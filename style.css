@@ -23,7 +23,7 @@
 }
 
 body {
-    background-color: #46e55eb4;
+    background-color: #caf1d0b4;
 }
 
 header{
@@ -69,7 +69,7 @@ nav a:hover {
 
 main {
     padding: 20px;
-    background-color: #D6FFD4;
+    background-color: #ffffff;
     max-width: 800px;
     min-height: 300px;
     margin: auto;
